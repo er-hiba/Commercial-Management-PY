@@ -1,5 +1,3 @@
-import copy
-
 class Product():
     __num_products = 0
     
