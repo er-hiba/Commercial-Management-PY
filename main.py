@@ -17,7 +17,6 @@ print(f"The number of products is {Product.get_num_products()}\n")
 print(f"Product 1 reference = Product 2 reference: {p1 == p2}\n")
 
 print(o1)
-print(o2)
 print(o3)
 
-print(f"Order 1 = Order 2: {o1 == o2}\n")
+print(f"Order 1 = Order 2: {o1 == o3}\n")
